@@ -5,6 +5,7 @@ The  Criminal investigation tracker system built using ASP.NET. Forks welcome!
 * [Description](#description)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Visuals](#visuals)
 
 ## Description
 The aim of Criminal Investigation Tracker system is to marinating the proper complaints of different police department by using this web application.
