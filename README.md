@@ -1,5 +1,5 @@
 # Criminal-investigation-tracker-with-suspect-prediction
-The  Criminal investigation tracker system built using ASP.NET. Forks welcome!
+The  Criminal investigation tracker system built using C#,ASP.NET. Forks welcome!
 
 ## Table of contents
 * [Description](#description)
