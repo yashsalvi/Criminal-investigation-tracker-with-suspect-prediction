@@ -24,3 +24,5 @@ $ cd ../lorem
 $ npm install
 $ npm start
 ```
+
+## Visuals
