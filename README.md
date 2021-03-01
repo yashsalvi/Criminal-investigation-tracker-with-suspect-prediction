@@ -21,12 +21,10 @@ Asp.net,Css,jQuery,Microsoft SQL Server.
 To run this project, install the following:
 
 ```
-$ Install .net framework ,Sql server,Visual Studio.
-Below are the links :
+* Install .net framework ,Sql server from the below links:
 1.https://dev.mysql.com/doc/mysql-installation-excerpt/8.0/en/windows-install-archive.html
 2.https://dotnet.microsoft.com/download/dotnet-framework
-
-$ Finally ,run the commands listed in the below link :
+* Finally ,run the commands listed in the below link :
 https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code
 ```
 
