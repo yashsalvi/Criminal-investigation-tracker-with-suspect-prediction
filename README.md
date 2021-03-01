@@ -30,5 +30,5 @@ https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code
 ```
 
 ## Visuals
-If required refer to the Screenshots of the project.
+If required refer to the Screenshots folder of the project.
 
