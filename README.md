@@ -5,6 +5,7 @@ The  Criminal investigation tracker system built using C# ,ASP.NET. Forks welcom
 * [Description](#description)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Visuals](#Visuals)
 
 
 ## Description
@@ -28,4 +29,6 @@ To run this project, install the following:
 https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code
 ```
 
+## Visuals
+If required refer to the screenshots of the project.
 
