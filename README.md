@@ -25,6 +25,7 @@ $ Install .net framework ,Sql server,Visual Studio.
 Below are the links :
 1.https://dev.mysql.com/doc/mysql-installation-excerpt/8.0/en/windows-install-archive.html
 2.https://dotnet.microsoft.com/download/dotnet-framework
+
 $ Finally ,run the commands listed in the below link :
 https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code
 ```
