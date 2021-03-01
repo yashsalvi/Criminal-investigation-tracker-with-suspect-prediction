@@ -5,7 +5,7 @@ The  Criminal investigation tracker system built using C# ,ASP.NET. Forks welcom
 * [Description](#description)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Visuals](#visuals)
+
 
 ## Description
 The aim of Criminal Investigation Tracker system is to marinating the proper complaints of different police department by using this web application.
@@ -18,12 +18,15 @@ Project is created with:
 Asp.net,Css,jQuery,Microsoft SQL Server.
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project, install the following:
 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+$ Install .net framework ,Sql server,Visual Studio.
+Below are the links :
+1.https://dev.mysql.com/doc/mysql-installation-excerpt/8.0/en/windows-install-archive.html
+2.https://dotnet.microsoft.com/download/dotnet-framework
+$ Finally ,run the commands listed in the below link :
+https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code
 ```
 
-## Visuals
+
