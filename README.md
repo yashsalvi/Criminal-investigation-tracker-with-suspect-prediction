@@ -10,7 +10,7 @@ The  Criminal investigation tracker system built using C# ,ASP.NET,TSQL. Forks w
 
 ## Description
 The aim of Criminal Investigation Tracker system is to marinating the proper complaints of different police department by using this web application.
-It also  tracks the investigation status of criminal cases with logs and also predicts primary suspects. The system is proposed to help agencies like CBI, CID and other such bureau’s to speed up their
+It also  tracks the investigation status of criminal cases with logs and also predicts the primary suspects. The system is proposed to help agencies like CBI, CID and other such bureau’s to speed up their
 investigation process and track status of multiple cases at a time.
 The system keeps logs of a case which includes case summary, people involved, disputes, past criminal history of those involved, Items recovered on scene and other details.
 	
